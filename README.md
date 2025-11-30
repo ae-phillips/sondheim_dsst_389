@@ -11,5 +11,20 @@ Through initial data exploration, I identified ‘love’ as the most frequent t
 - R / Quarto
 - tidyverse
 - tidytext
+- dplyr
+- stringr
+- tidymodels
+- glmnet
+- kknn
+- ggplot2
+- ggrepel
+- and more! --> check the .qmd file for all packages
+
+## Results
+
+I first completed a preliminary tf-idf analysis of Sondheim's shows to highlight their highly specific subject matters and provide context for future "love" analysis.
+
+<img width="903" height="669" alt="image" src="https://github.com/user-attachments/assets/c30cae8f-400b-4a62-87f7-eb9c968bf1ff" />
+
 
 
