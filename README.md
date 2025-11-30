@@ -32,7 +32,7 @@ Because these terms have such high frequencies, they receive **low tf-idf scores
 
 ### Sentiment Analysis
 
-Next, I moved to sentiment analysis to provide additional show contexts before interpreting topic models. Sondheim’s shows portray a wide variety of sentiment. The **average sentiment for the entire corpus is 0.0596**, which is somewhat surprising given that *Into the Woods* and *Sweeney Todd* — despite their violence and darker themes — do not average in the negatives.
+Next, I moved to sentiment analysis to provide additional show contexts before interpreting topic models. Sondheim’s shows portray a wide variety of sentiment. The **average sentiment for the entire corpus is 0.0596**, and it's somewhat surprising that *Into the Woods* and *Sweeney Todd* — despite their violence and darker themes — do not average in the negatives.
 
 <img width="702" height="441" alt="image" src="https://github.com/user-attachments/assets/7245929c-8c08-4c5c-bb04-7b17fe983cec" />
 
