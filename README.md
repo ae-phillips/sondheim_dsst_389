@@ -8,7 +8,7 @@ Stephen Sondheim is one of Broadway’s most beloved and successful lyricists/co
 
 ## Project Overview
 Sondheim’s shows grapple with life’s hard questions, and his lyrics often trend toward the existential, allowing the audience to sympathize with broad themes – despite the often hyperspecific nature of Sondheim’s shows. Through initial data exploration, I identified **‘love’ as the most frequent term in the corpus as a whole**, and I used multiple textual analysis methods to explore the significance of ‘love’ in Sondheim’s corpus: 
-- I used tf-idf to highlight unique terms for each show (and provide context for additional analyses)and
+- I used tf-idf to highlight unique terms for each show (and provide context for additional analyses)
 - Then, I used sentiment analysis (AFINN) to provide average sentiments for each show and to visually compare differences between shows
 - Finally, with topic modeling, I returned to the topic of ‘love’ and explored important terms across the entire corpus, as well as between contrasting individual shows 
 
