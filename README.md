@@ -45,6 +45,8 @@ Therefore, even if the lyrics themselves do not differ dramatically in sentiment
 ### Topic Modeling
 Next, I use topic modeling to explore how “love” appears throughout the corpus — first in a global model, then in two individual show models.
 
+<img width="780" height="483" alt="image" src="https://github.com/user-attachments/assets/b6585436-7f66-48d1-a880-8b4c5941cf19" />
+
 After exploring models with 5–15 topics, I selected **10 topics**, as they provided the most cohesive overview of how “love” functions in Sondheim’s lyrics (in my somewhat qualified opinion). A couple
 of shows definitely skew the top terms, but this is to be expected due to unequal term frequency of ‘love’ between shows. As shown in Figure 5, Passion, Follies, and Company all contributed the most instances of ‘love’ to this model. For example, “marry” and “ready” can be attributed to Company because grappling with the implications of marriage, loneliness, and love is a central theme of the show.
 
